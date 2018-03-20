@@ -49,7 +49,7 @@ $("form").on("click","#submit",function(event){
 		console.log(data);
 		var newJumbo = $("<div>").attr("class","jumbotron");
 		newJumbo.append($("<h3>").attr("class","display-3").text("Your new best friend is: "+data.name))
-		newJumbo.append($("<img>").attr("src",data.picURL));
+		newJumbo.append($("<img>").attr("src",data.picURL).attr("class","img-thumbnail"));
 		$("maincon").empty();
 		$("#maincon").append(newJumbo);
 	})
