@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Gregory",
+    "picURL": "http://https://78.media.tumblr.com/181b672c5335e88244deaa5cdfe45b99/tumblr_p48kkaDXC31sfkgseo3_540.jpg",
+    "scores": [
+      5,
+      5,
+      1,
+      5,
+      5,
+      1,
+      1,
+      5,
+      1,
+      5
+    ]
+  },
+  {
+    "name": "Wilhelm",
+    "picURL": "https://78.media.tumblr.com/ea770f180e791d8a728f54353cea35c0/tumblr_p4rnuk8hGD1wx15lmo1_540.jpg",
+    "scores": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "statFlag": true
+  },
+  {
+    "name": "Sam",
+    "picURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/15350652_10210550370411450_5292489990346836751_n.jpg?oh=96ef33bcddd9623b7785112c71d4ce39&oe=5B3B8A59",
+    "scores": [
+      "3",
+      "4",
+      "4",
+      "4",
+      "2",
+      "3",
+      "5",
+      "5",
+      "2",
+      "4"
+    ]
+  }
+]
